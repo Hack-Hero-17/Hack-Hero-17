@@ -8,11 +8,13 @@
 ⚡ Fun fact: I don’t have a girlfriend, but I have a React component that re-renders my heart every time I see good code. 💙
 
 ---
-## 👀 Profile Views
-<p align="center">
-  <img src="https://hitwebcounter.com/counter/counter.php?page=hack-hero-17&style=0006&nbdigits=6&type=page&initCount=100" title="Profile Views" alt="Visitor Count" />
-</p>
 
+## 👀 Profile Views
+<p align="center"><b>Profile Views</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/hack-hero-17/count.svg" alt="visitor badge"/></p>
+<br/>
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_rizin.phoenix_) 
@@ -51,13 +53,6 @@
 ### ✍️ Random Dev Quote:
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Dev Quote" />
-</p>
-
----
-
-### 👀 Profile Views:
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=hack-hero-17&icon=2&color=3" alt="Profile Views" />
 </p>
 
 ---
