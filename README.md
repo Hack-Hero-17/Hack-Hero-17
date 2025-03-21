@@ -26,7 +26,7 @@
 ## 💻 Tech Stack & Tools I use:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,vue,nextjs,html,css,sass,tailwind,bootstrap,vite,js,ts,nodejs,express,mongodb,mysql,sqlite,firebase,flask,spring,java,python,c,cpp,bash,linux,git,github,postman,figma,gcp,matplotlib,numpy,pandas,opencv&perline=6" />
+    <img src="https://skillicons.dev/icons?i=react,angular,vue,nextjs,html,css,sass,tailwind,bootstrap,vite,js,ts,nodejs,express,mongodb,mysql,sqlite,firebase,flask,spring,java,python,c,cpp,bash,linux,git,github,postman,figma,gcp,matplotlib,numpy,pandas,opencv&perline=8" />
   </a>
 </p>
 
