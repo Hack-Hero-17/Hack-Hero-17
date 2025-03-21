@@ -1,13 +1,18 @@
 # 💫 About Me:
-🌱 I’m currently learning MERN Stack, Machine Learning<br><br>
-👯 I’m looking to collaborate on Web-Dev Projects<br><br>
-🤝 I’m looking for help with ML Development<br><br>
+🌱 I’m currently learning `MERN Stack, Machine Learning`<br><br>
+👯 I’m looking to collaborate on `Web-Dev Projects`<br><br>
+🤝 I’m looking for help with `ML Development`<br><br>
 👨‍💻 All of my projects are available at [GitHub](https://github.com/Hack-Hero-17)<br><br>
-💬 Ask me about MERN Stack and Angular<br><br>
+💬 Ask me about `MERN Stack and Angular`<br><br>
 📫 How to reach me: hariharan17kpm@gmail.com<br><br>
 ⚡ Fun fact: I don’t have a girlfriend, but I have a React component that re-renders my heart every time I see good code. 💙
 
 ---
+## 👀 Profile Views
+<p align="center">
+  <img src="https://hitwebcounter.com/counter/counter.php?page=hack-hero-17&style=0006&nbdigits=6&type=page&initCount=100" title="Profile Views" alt="Visitor Count" />
+</p>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_rizin.phoenix_) 
