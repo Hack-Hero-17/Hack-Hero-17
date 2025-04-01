@@ -5,7 +5,7 @@
 👨‍💻 All of my projects are available at [GitHub](https://github.com/Hack-Hero-17)<br><br>
 💬 Ask me about `MERN Stack and Angular`<br><br>
 📫 How to reach me: hariharan17kpm@gmail.com<br><br>
-⚡ Fun fact: I don’t have a girlfriend, but I have a React component that re-renders my heart every time I see good code. 💙
+⚡ Fun fact: <b>Apollo 11 ran on 64KB of memory. Meanwhile, my browser eats 2GB just to open one tab.</b>
 
 ---
 
