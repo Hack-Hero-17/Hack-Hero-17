@@ -1,9 +1,9 @@
 # 💫 About Me:
-🌱 I’m currently learning `MERN Stack, Machine Learning`<br><br>
+🌱 I’m currently learning `Angular, Machine Learning`<br><br>
 👯 I’m looking to collaborate on `Web-Dev Projects`<br><br>
 🤝 I’m looking for help with `ML Development`<br><br>
 👨‍💻 All of my projects are available at [GitHub](https://github.com/Hack-Hero-17)<br><br>
-💬 Ask me about `MERN Stack and Angular`<br><br>
+💬 Ask me about `MERN Stack`<br><br>
 📫 How to reach me: hariharan17kpm@gmail.com<br><br>
 ⚡ Fun fact: <b>Apollo 11 ran on 64KB of memory. Meanwhile, my browser eats 2GB just to open one tab.</b>
 
