@@ -1,7 +1,7 @@
 # 💫 About Me:
 🌱 I’m currently learning `Angular, Machine Learning`<br><br>
 👯 I’m looking to collaborate on `Web-Dev Projects`<br><br>
-🤝 I’m looking for help with `ML Development`<br><br>
+🤝 I’m looking for help with `Machine Learning`<br><br>
 👨‍💻 All of my projects are available at [GitHub](https://github.com/Hack-Hero-17)<br><br>
 📝 Check out my portfolio at [Portfolio](https://hack-hero-17.github.io)<br><br>
 💬 Ask me about `MERN Stack`<br><br>
