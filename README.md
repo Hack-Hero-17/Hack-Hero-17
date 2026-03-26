@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning `Angular, LLMs`<br><br>
+🌱 I’m currently learning `Scalable Web, LLMs`<br><br>
 👯 I’m looking to collaborate on `Web-Dev Projects`<br><br>
 🤝 I’m looking for help with `Blockchain Technologies`<br><br>
 👨‍💻 All of my projects are available at [GitHub](https://github.com/Hack-Hero-17)<br><br>
