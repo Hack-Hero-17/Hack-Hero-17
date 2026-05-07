@@ -1,6 +1,6 @@
 # 💫 About Me:
-🌱 I’m currently learning `Scalable Web, LLMs`<br><br>
-👯 I’m looking to collaborate on `Web-Dev Projects`<br><br>
+🌱 I’m currently learning `Spring Boot, LLMs`<br><br>
+👯 I’m looking to collaborate on `Web-Dev, Cloud Projects`<br><br>
 🤝 I’m looking for help with `Blockchain Technologies`<br><br>
 👨‍💻 All of my projects are available at [GitHub](https://github.com/Hack-Hero-17)<br><br>
 📝 Check out my portfolio at [Portfolio](https://hack-hero-17.github.io)<br><br>
